@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# GOBOT--AUTONOMOUS-VEHICULAR-SYSTEM-FOR-ITEM-DELIVERY
-# Online Documentation Referred:
-=======
+
 ### GOBOT Autonomous Vehicular System For Item Delivery
 
 >**Idea Behind Go-Bot**
@@ -29,7 +26,10 @@ protocols can be built on top of existing ones to further reduce the human depen
 7. To ensure contact-less delivery owing to the safety of humans. 8. To reduce direct reliance on human resources for deliveries. 
 
 
-![](workingexample.gif)
+![](Go-Bot.jpeg)
+
+
+
 
 >### Online Documentation Referred:
 >>>>>>> facbbf28ca89ef49569e8d0aa8082269f9d45f2f
